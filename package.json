@@ -1,0 +1,22 @@
+{
+  "name": "shemsedinov",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kyrsanter/lessons_n_js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kyrsanter/lessons_n_js/issues"
+  },
+  "homepage": "https://github.com/kyrsanter/lessons_n_js#readme",
+  "dependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
